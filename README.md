@@ -3,7 +3,7 @@
 
 ## Introduction
 This is a Power BI project on employee attrition analysis of an imaginary company we'll call **Tog Groups**. The project is carried out with the aim of analyzing and deriving insights into the company's attrition rate, determining the rate, possible cause and hence, proffer data driven recommendations to the company.
-**_Disclaimer_:** All datasets and reports are simply for demonstration purposes and do not represent any actual or real life company.
+**_Disclaimer_:** All datasets and reports are simply for demonstration purposes and do not represent any actual or real life company. Datasets provided by Meriskill was used for the project
 
 ## Problem Statement:
 1. What is the total number of employee and how many are active
