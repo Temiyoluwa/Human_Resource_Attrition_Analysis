@@ -40,8 +40,8 @@ Overview: ![](Demographic_Page.png)
 
 Wellness Report:![](Wellnes_Analysis.png)
 1. While a total of 73 employees, which was the higest, claimed they were satisfied with their job, 72 of them reported to be very dissatisfied with their work environment.
-2. Also, 54% of attrited employees had a good life balance. 
+2. Additiionally 54% of attrited employees had a good life balance. 
 
 ## Conclussion and Recomendations
-The dataset provided lacked some needed records that would have made more analysis possible such as hire date and exit date.
+The dataset provided lacked some needed records that would have made more analysis possible such as hire date and exit date to determine how long attrited workers had spent with the company before leaving .
 The analysis has shown that, a major reasons employees of Tog groups have left, is because of the poor work environment. While we can specifically tell what this encompasses, it is recommended that the company set up a review committee that can improve the employee's working environment. such as providing adequate security, or even ensure the environment is beautified with flowers and light for nightime. This can go a long way in improving the work environment, and hence, reducing employee attririon in the company.
